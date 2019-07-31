@@ -37,6 +37,10 @@ gem 'devise-bootstrap-views'
 # Use ActiveStorage variant
 # gem 'mini_magick', '~> 4.8'
 
+# Stonks
+gem 'stock_quote'
+gem 'iex-ruby-client'
+
 # Use Capistrano for deployment
 # gem 'capistrano-rails', group: :development
 
